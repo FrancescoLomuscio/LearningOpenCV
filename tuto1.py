@@ -10,6 +10,7 @@ Created on Mon Mar 16 12:18:39 2020
 import numpy as np
 import cv2
 
+""" OpenCV reads image in BGR, MatplotLib reads images in RGB """
 img = cv2.imread("Kalluto.png",0)
 
 cv2.imshow("Kalluto",img)
