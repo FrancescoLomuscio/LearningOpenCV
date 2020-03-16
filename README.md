@@ -1,0 +1,1 @@
+Repository contenente i tutorial per OpenCV.
