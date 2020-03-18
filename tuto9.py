@@ -38,7 +38,7 @@ cv2.destroyAllWindows()
 
 """
 PER TROVARE VALORI DA TRACKARE CONVERTI IL COLORE CHE VUOI IN HSV E IL RANGE 
-DA TROVARE IN HSV E' [H-10,100,100],[H+10,255,255]
+DA TROVARE IN HSV E' [H-10,100,100],[H+10,255,255git sta]
 >>> green = np.uint8([[[0,255,0 ]]])
 >>> hsv_green = cv2.cvtColor(green,cv2.COLOR_BGR2HSV)
 >>> print hsv_green
